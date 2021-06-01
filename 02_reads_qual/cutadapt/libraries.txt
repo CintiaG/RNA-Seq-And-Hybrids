@@ -1,0 +1,12 @@
+/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598367_1.fastq	/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598367_2.fastq
+/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598368_1.fastq	/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598368_2.fastq
+/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598369_1.fastq	/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598369_2.fastq
+/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598370_1.fastq	/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598370_2.fastq
+/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598371_1.fastq	/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598371_2.fastq
+/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598372_1.fastq	/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598372_2.fastq
+/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598373_1.fastq	/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598373_2.fastq
+/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598374_1.fastq	/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598374_2.fastq
+/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598375_1.fastq	/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598375_2.fastq
+/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598376_1.fastq	/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598376_2.fastq
+/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598377_1.fastq	/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598377_2.fastq
+/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598378_1.fastq	/lustre/scratch/hpc-cintia-gomez/rna-seq-analysis/01_rna_seq_data/source_data/SRR3598378_2.fastq
