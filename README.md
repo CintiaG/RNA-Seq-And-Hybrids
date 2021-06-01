@@ -14,4 +14,6 @@ In this repository I summarize the tools and approaches we have used to analyze 
 
 Current content of this repository:
 
+* **00_rna_seq_intro:** Brief RNA-Seq introduction and isntructions to install used program. Minor troubleshootings.
 * **01_rna_seq_data:** Download RNA-Seq information form the NCBI database using the **SRA toolkit**.
+*
