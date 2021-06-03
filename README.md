@@ -17,3 +17,4 @@ Current content of this repository:
 * **00_rna_seq_intro:** Brief RNA-Seq introduction and instructions to install used programs. Minor troubleshootings.
 * **01_rna_seq_data:** Download RNA-Seq information form the NCBI database using the **SRA toolkit**.
 * **02_reads_qual:** Sequences' quality evaluation, adapter removal and trimming.
+* **03_reads_assembly:** _De novo_ transcriptome assembly with Trinity.
