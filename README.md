@@ -1,10 +1,10 @@
 # RNA-Seq analysis approaches for hybrid microorganisms
 
-Author: Cintia Gómez
+Author: Cintia Gómez-Muñoz
 
 Created: June 1, 2021
 
-Updated: June 1, 2021
+Updated: June 3, 2021
 
 ---
 
@@ -14,5 +14,6 @@ In this repository I summarize the tools and approaches we have used to analyze 
 
 Current content of this repository:
 
-* **00_rna_seq_intro:** Brief RNA-Seq introduction and isntructions to install used program. Minor troubleshootings.
+* **00_rna_seq_intro:** Brief RNA-Seq introduction and instructions to install used programs. Minor troubleshootings.
 * **01_rna_seq_data:** Download RNA-Seq information form the NCBI database using the **SRA toolkit**.
+* **02_reads_qual:** Sequences' quality evaluation, adapter removal and trimming.

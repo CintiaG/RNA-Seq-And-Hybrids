@@ -109,13 +109,13 @@ path_to/source_data/SRR3598377_1.fastq  path_to/source_data/SRR3598377_2.fastq
 path_to/source_data/SRR3598378_1.fastq  path_to/source_data/SRR3598378_2.fastq
 ```
 
-Then, you can apply the **runCutadapt.sh** script. Activate your **Cutadapt** enviroment with `conda activate cutadaptenv` and run your script:
+Then, you can apply the **runCutadapt.sh** script. Activate your **Cutadapt** environment with `conda activate cutadaptenv` and run your script:
 
 ```bash
 ./runCutadapt.sh path_to/cutadapt/libraries.txt path_to/cutadapt/TruSeq_adapters.fasta
 ```
 
-Type `conda deactivate` after the process is finish to go back to your base enviroment.
+Type `conda deactivate` after the process is finish to go back to your base environment.
 
 After the process, you can run **FastQC** again over the newly generated sequences.
 
@@ -124,11 +124,11 @@ cd path_to/02_reads_qual/quals
 mkdir qual_rnd2
 ```
 
-Now, you can check the **HTML** reports. As you can see, according to **FastQC** there were not too much problems in regard to the adpater content; however, now we know for sure that the adapter content has improved.
+Now, you can check the **HTML** reports. As you can see, according to **FastQC** there were not too much problems in regard to the adapter content; however, now we know for sure that the adapter content has improved.
 
 ## Trimming and filtering
 
-Next thing to do is to trim and filter the reads according to the desired parameters using **Trimmomatic**<sup>4</sup>. To to stablish additional filtering parameters one needs to examine the **HTML** quality reports. The filtering parameters will depend on your specific dataset. I am going to make several tests with varying parameters but starting from the same sequence set until I get the desired results.
+Next thing to do is to trim and filter the reads according to the desired parameters using **Trimmomatic**<sup>4</sup>. To establish additional filtering parameters one needs to examine the **HTML** quality reports. The filtering parameters will depend on your specific dataset. I am going to make several tests with varying parameters but starting from the same sequence set until I get the desired results.
 
 Go to your `02_reads_qual` directory and create a new analysis directory.
 
@@ -137,7 +137,7 @@ cd path_to/02_reads_qual
 mkdir trimming
 ```
 
-As I said, it is likely that we have to make several trimming rounds, therefore, to keep things clean, make the appropiate directories.
+As I said, it is likely that we have to make several trimming rounds, therefore, to keep things clean, make the appropriate directories.
 
 ```bash
 cd trimming
@@ -183,7 +183,7 @@ cd path_to/02_reads_qual/trimming
 mkdir trim_rnd2
 ```
 
-The **Trimmomatic** command modifications are in the **trimming_head_sbatch.sh** script. After this process, I made a fourth round (`qual_rnd4`) of quality assesment. This finally produced more suitable reads for downstream analyses.
+The **Trimmomatic** command modifications are in the **trimming_head_sbatch.sh** script. After this process, I made a fourth round (`qual_rnd4`) of quality assessment. This finally produced more suitable reads for downstream analyses.
 
 ## References
 
