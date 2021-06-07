@@ -4,7 +4,7 @@ Author: Cintia Gómez-Muñoz
 
 Created: June 1, 2021
 
-Updated: June 3, 2021
+Updated: June 7, 2021
 
 ---
 
@@ -16,5 +16,6 @@ Current content of this repository:
 
 * **00_rna_seq_intro:** Brief RNA-Seq introduction and instructions to install used programs. Minor troubleshootings.
 * **01_rna_seq_data:** Download RNA-Seq information form the NCBI database using the **SRA toolkit**.
-* **02_reads_qual:** Sequences' quality evaluation, adapter removal and trimming.
+* **02_reads_qual:** Sequences' quality evaluation, adapter removal and trimming (**FastQC**, **Cutadapt** and **Trimmomatic**).
 * **03_reads_assembly:** _De novo_ transcriptome assembly with **Trinity**.
+* **04_ref_assembly:** Transcriptome analysis using a reference assembly with **STAR**, **HISAT2** and **featureCounts**.
