@@ -1,0 +1,4 @@
+source_data/ERR3384482_1.fastq,source_data/ERR3384483_1.fastq,source_data/ERR3384484_1.fastq,source_data/ERR3384482_2.fastq,source_data/ERR3384483_2.fastq,source_data/ERR3384484_2.fastq
+source_data/ERR3384485_1.fastq,source_data/ERR3384486_1.fastq,source_data/ERR3384487_1.fastq,source_data/ERR3384485_2.fastq,source_data/ERR3384486_2.fastq,source_data/ERR3384487_2.fastq
+source_data/ERR3384488_1.fastq,source_data/ERR3384489_1.fastq,source_data/ERR3384490_1.fastq,source_data/ERR3384488_2.fastq,source_data/ERR3384489_2.fastq,source_data/ERR3384490_2.fastq
+source_data/ERR3384491_1.fastq,source_data/ERR3384492_1.fastq,source_data/ERR3384493_1.fastq,source_data/ERR3384491_2.fastq,source_data/ERR3384492_2.fastq,source_data/ERR3384493_2.fastq

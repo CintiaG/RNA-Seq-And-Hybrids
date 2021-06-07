@@ -1,0 +1,1 @@
+../../01_rna_seq_data/used_scripts/fasterq-dumpSRR_sbatch.sh
